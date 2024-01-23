@@ -1,4 +1,4 @@
-## MovieHub: Your Ultimate Movies Database Website
+## MoviesHub: Your Ultimate Movies Database Website
 Welcome to MovieHub, a user-friendly Movies Database website powered by the OMDB API. 
 This project, crafted with JavaScript, HTML, and CSS, allows you to explore and discover information about your favorite movies effortlessly.
 
